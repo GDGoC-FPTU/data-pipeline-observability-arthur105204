@@ -2,7 +2,7 @@
 ==============================================================
 Day 10 Lab: Build Your First Automated ETL Pipeline
 ==============================================================
-Student ID: AI20K-202600178 
+Student ID: AI20K-2A202600178 
 Name: Nguyen Manh Phu
 
 Nhiem vu:

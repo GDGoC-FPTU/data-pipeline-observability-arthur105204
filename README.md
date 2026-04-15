@@ -3,7 +3,7 @@
 
 **Student Email:** (update your email if required by instructor)
 **Name:** Nguyen Manh Phu
-**Student ID:** AI20K-202600178
+**Student ID:** AI20K-2A202600178
 
 ---
 
